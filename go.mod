@@ -1,4 +1,4 @@
-module learn-go-with-tests
+module github.com/brittonhayes/learn-go-with-tests
 
 go 1.16
 
